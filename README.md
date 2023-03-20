@@ -1,0 +1,1 @@
+Here, I'm gonna make a quiz project with TypeScript
