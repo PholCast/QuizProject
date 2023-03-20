@@ -1,0 +1,50 @@
+/*colores
+#EFD9CE
+#07BEB8
+#98DFEA
+#8F3985
+#25283D
+*/
+html,body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Arimo', sans-serif;
+}
+body{
+    background:#EFD9CE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.game{
+    background-color:#07BEB8;
+   width: 40%;
+   height: 65%;
+   border-radius: 30px;
+   padding:40px;
+   text-align: center;
+}
+h1{
+    color: #000000;
+    text-align: center;
+    font-size: 2rem;
+}
+#question{
+    color: #000000;
+    font-size:larger;
+}
+
+.answerButton{
+    background-color: #25283D;
+    color:white;
+    width: 70%;
+    margin: 20px;
+    padding: 20px;
+   border-radius:10px ;
+   border: none
+   ;
+   outline: 0;}
+
+
